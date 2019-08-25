@@ -11,8 +11,7 @@
 
 ##安装过程：
 ###1. 选择下载网址：
-2. 
-	Please select frps download url:
+	2.Please select frps download url:
 	[1].aliyun (default)
 	[2].github
 	Enter your choice (1, 2 or exit. default [aliyun]): 
