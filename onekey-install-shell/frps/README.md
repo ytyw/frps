@@ -22,16 +22,18 @@ chmod 700 ./install-frps.sh
 ./install-frps.sh install
 ```
 
-### UnInstall
+### UnInstall （卸载）
 ```Bash
     ./install-frps.sh uninstall
 ```
-### Update
+### Update （更新）
 ```Bash
     ./install-frps.sh update
 ```
-### 服务器管理
+### 服务器管理 （启动|关闭|重启|状态|配置|版本）
 ```Bash
     Usage: /etc/init.d/frps {start|stop|restart|status|config|version}
 ```
+
+
 
